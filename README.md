@@ -5,7 +5,7 @@ Jamesbot is a Discord bot created for the Aviencloud Discord server, the communi
 
 **Contents**
 
- - [Commands](https://github.com/Gridonyx/gridonyx/tree/jamesbot#commands)
+ - [Commands](#commands)
 	 - [General](https://github.com/Gridonyx/gridonyx/tree/jamesbot#general)
 		 - [Avatar](https://github.com/Gridonyx/gridonyx/tree/jamesbot#avatar)
 		 - [Google](https://github.com/Gridonyx/gridonyx/tree/jamesbot#google)
