@@ -1,6 +1,8 @@
 # Jamesbot
 Jamesbot is a Discord bot created for the Aviencloud Discord server, the community server for the Aviencloud YouTube channel. Jamesbot originally started as a way to log server economy, but later evolved into a fully-fledged bot with moderator functionality and other useful utilities. The current Jamesbot is at version 2.
 
+[Website](https://jamesbot.gridonyx.com/)
+
 **Contents**
 
  - [Commands](https://github.com/Gridonyx/gridonyx/tree/jamesbot#commands)
