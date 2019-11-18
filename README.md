@@ -48,8 +48,8 @@ The Avatar command is used to retrieve your own, or someone else's, Discord avat
 
 **Command Use**
 
-    %avatar {@user}
-    %av {@user}
+    %avatar {@user or user id}
+    %av {@user or user id}
 
 ### Google
 The Google command is used to retrieve the first result on Google for your included search terms.
