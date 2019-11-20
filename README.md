@@ -44,6 +44,12 @@ The default command prefix for Jamesbot is %, but this can be customized.
 All command arguments in **[ ]** (square brackets) are required, those in **{ }** (curly brackets) are optional.
 
 ## General
+### 8ball
+THe 8ball command is used to retrieve a randomized response to your question.
+
+**Command Use**
+    %8ball {question}
+    
 ### Avatar
 The Avatar command is used to retrieve your own, or someone else's, Discord avatar. 
 
