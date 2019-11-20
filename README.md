@@ -7,6 +7,7 @@ Jamesbot is a Discord bot created for the Aviencloud Discord server, the communi
 
  - [Commands](#commands)
 	 - [General](#general)
+	 	- [8ball](#8ball)
 		 - [Avatar](#avatar)
 		 - [Google](#google)
 		 - [NSFW](#nsfw)
