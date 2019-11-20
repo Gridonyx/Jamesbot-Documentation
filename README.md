@@ -45,10 +45,11 @@ All command arguments in **[ ]** (square brackets) are required, those in **{ }*
 
 ## General
 ### 8ball
-THe 8ball command is used to retrieve a randomized response to your question.
+THe 8ball command is used to retrieve a randomized response to your most important life questions.
 
 **Command Use**
-    %8ball {question}
+
+    %8ball
     
 ### Avatar
 The Avatar command is used to retrieve your own, or someone else's, Discord avatar. 
