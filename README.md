@@ -161,7 +161,7 @@ The Kick command is used by server staff to kick a member from the server. Can i
     %boot [@user] {reason}
 
 ### Mute
-The Mute command is used by server staff to mute a server member, which prevents them from sending messages. Can include optional duration (in minutes) and reason, default duration is 15 minutes.
+The Mute command is used by server staff to mute a server member, which prevents them from sending messages. Can include optional duration (example: 1h30m) and reason, default duration is 15 minutes.
 
 **Command Use**
 
